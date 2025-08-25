@@ -4,10 +4,10 @@
 <h3 align="center">Just a chilled guy coding his way through life.</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanRai8&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanRai8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://github.com/Unik69420/Unik69420/blob/main/github%20profile%20gif.gif?raw=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanRai8&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanRai8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&v=1" height="150" alt="languages graph"  />
 </div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
