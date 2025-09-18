@@ -3,10 +3,6 @@
 <h3 align="center">Just a chilled guy coding his way through life.</h3>
 
 <div align="center">
-
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanRai8&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&v=2" height="180" alt="GitHub stats" width="600"  />
- 
 <img align="right" height="150" src="https://github.com/Unik69420/Unik69420/blob/main/github%20profile%20gif.gif?raw=true"  />
 </div>
 
