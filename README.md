@@ -1,4 +1,5 @@
 [![MasterHead](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)](https://youtu.be/Eh2eFk6f9zc)
+
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">Just a chilled guy coding his way through life.</h3>
 
@@ -7,6 +8,7 @@
 </div>
 
 ### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
@@ -35,25 +37,19 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://amanrai8.vercel.app" target="_blank">
+  <a href="https://aman8.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aman-rai-1b3782341" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/unik.rai.7923" target="_blank">
+  <a href="https://www.facebook.com/aman.rai.131116" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sussy_baka9.11" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/uniksensei69420" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
-
-
 
 ---
 
