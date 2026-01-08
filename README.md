@@ -37,7 +37,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://aman8.vercel.app" target="_blank">
+  <a href="https://amanrai8.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aman-rai-1b3782341" target="_blank">
@@ -54,5 +54,5 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+the+visit!+✌️;See+you+next+time!">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+projects+👇;Thanks+for+the+visit!+✌️">
 </h3>
